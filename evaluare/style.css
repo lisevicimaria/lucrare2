@@ -1,0 +1,18 @@
+.verde{
+	background: red;
+}
+#Container{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+p{
+	width: 120px;
+	border: 1px solid black;
+}
+.cerc{
+	width: 100px;
+	height: 100px;
+	background: black;
+	margin-bottom: 5px;
+}
